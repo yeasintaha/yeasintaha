@@ -1,4 +1,4 @@
-### Hi! I am Syed Taha Yeasin Ramadan 👋 
+### Hi! I am Taha 👋 
 
 
 <!--
