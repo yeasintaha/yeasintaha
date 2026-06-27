@@ -1,6 +1,10 @@
 ### Hi! I am Taha 👋 
 
+I make data speak.
 
+
+
+I build AI systems with one goal: turning complexity into clarity. From raw datasets to deployed models, I design solutions that are reliable, interpretable, and built for real-world impact.
 <!--
 **yeasintaha/yeasintaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
